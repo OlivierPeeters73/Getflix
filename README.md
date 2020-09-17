@@ -12,7 +12,7 @@ Durée approximative du projet 10 jours.
 
 Il s'agit d'un excercice réalisé durant la formation chez BeCode de Junior Web Dev.  
 
-lien vers le repo énoncé du challenge : [içi](https://github.com/becodeorg/BXL-Swartz-3-21/blob/master/06-PHP/getflix_project.md)
+lien vers le repo énoncé du challenge : [ici](https://github.com/becodeorg/BXL-Swartz-3-21/blob/master/06-PHP/getflix_project.md)
 
 ## Langages utilisés
 
@@ -37,7 +37,7 @@ Réalisation :En equipe de 4
 
 ## Liens vers la page  
 
-[Içi](http://streamler.orgfree.com/index.php)  
+[Ici](http://streamler.epizy.com/)  
 
 ## Progression
 
